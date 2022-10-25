@@ -11,22 +11,28 @@ This then allows you to pick appropriate semantic tags for the various aspects o
 
 I learnt how class selectors are very useful in applying changes to specific elements of your choosing. I also learnt how id tags can be used to create links to certain sections of the webpage.
 Most of all, I learnt the importance of DRY code in terms of improving readability and efficiency.
-## Website Screenshot
+# Website Screenshot
 
 ![Horiseon Website](assets/images/percyjacks.github.io_Module-1-Challenge_.png)
 
-## Installation
+# Installation
 
 N/A
 
-## Usage
+# Usage
 
 To use this [Horiseon Website](https://percyjacks.github.io/Module-1-Challenge/), you can click the sections in the navigation bar and it will take you to the corresponding section on the website.
 
-## Credits
+# Credits
 
 N/A
 
-## License
+# License
 
 Please refer to the LICENSE in the repo.
+
+# Contact
+
+If you have any questions, please contact me at:
+
+Github: [PercyJacks](https://github.com/PercyJacks)
